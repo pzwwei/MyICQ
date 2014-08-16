@@ -1,0 +1,44 @@
+C:\Users\ASUS\Desktop\MyICQ\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\MyICQ\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\MyICQ\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MyICQ\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\MyICQ\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\асько\MyICQ\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\асько\MyICQ\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\асько\MyICQ\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\асько\MyICQ\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\асько\MyICQ\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\hh_ICQnew\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\hh_ICQnew\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\hh_ICQnew\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\hh_ICQnew\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\hh_ICQnew\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\hh_ICQ\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.pdb
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.dll
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.pdb
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.dll
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.pdb
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.dll
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\MyLibrary\bin\Debug\MyLibrary.pdb
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.dll
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\MyLibrary\obj\Debug\MyLibrary.pdb
+P:\ворк\резюмешки\пруфы\myICQ\MyLibrary\bin\Debug\MyLibrary.dll
+P:\ворк\резюмешки\пруфы\myICQ\MyLibrary\bin\Debug\MyLibrary.pdb
+P:\ворк\резюмешки\пруфы\myICQ\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+P:\ворк\резюмешки\пруфы\myICQ\MyLibrary\obj\Debug\MyLibrary.dll
+P:\ворк\резюмешки\пруфы\myICQ\MyLibrary\obj\Debug\MyLibrary.pdb

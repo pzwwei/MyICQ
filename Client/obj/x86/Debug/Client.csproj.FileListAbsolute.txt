@@ -1,0 +1,189 @@
+C:\Users\ASUS\Desktop\MyICQ\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Desktop\MyICQ\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\MyICQ\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\MyICQ\Client\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\MyICQ\Client\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\App.g.cs
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\Client_MarkupCompile.cache
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\Client.g.resources
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\Client.exe
+C:\Users\ASUS\Desktop\MyICQ\Client\obj\x86\Debug\Client.pdb
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\Client.exe
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\Client.pdb
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\App.g.cs
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\Client_MarkupCompile.cache
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\Client.g.resources
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowCreateAccount.baml
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowCreateAccount.g.cs
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowContactList.baml
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowContactList.g.cs
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowAddContact.baml
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowAddContact.g.cs
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowDialog.baml
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowDialog.g.cs
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowChat.baml
+C:\Users\ASUS\Desktop\асько\MyICQ\Client\obj\x86\Debug\WindowChat.g.cs
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\Client.exe
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\Client.pdb
+C:\Users\ASUS\Desktop\hh_ICQ\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\hh_ICQ\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\hh_ICQ\Client\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\hh_ICQ\Client\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\WindowChat.baml
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.baml
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\WindowDialog.baml
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\WindowChat.g.cs
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.g.cs
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\WindowDialog.g.cs
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\App.g.cs
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\Client_MarkupCompile.cache
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\Client.g.resources
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ASUS\Desktop\hh_ICQ\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\Client.exe
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\Client.pdb
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\WindowChat.baml
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\WindowCreateAccount.baml
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\WindowDialog.baml
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\WindowChat.g.cs
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\WindowCreateAccount.g.cs
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\WindowDialog.g.cs
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\App.g.cs
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\Client_MarkupCompile.cache
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\Client.g.resources
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ASUS\Desktop\hh_ICQnew\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.exe
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.pdb
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowChat.baml
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.baml
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowDialog.baml
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowChat.g.cs
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.g.cs
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowDialog.g.cs
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\App.g.cs
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client_MarkupCompile.cache
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.g.resources
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.exe
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.pdb
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\bin\Debug\Client.exe
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\bin\Debug\Client.pdb
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\bin\Debug\MyLibrary.dll
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\bin\Debug\MyLibrary.pdb
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\MainWindow.baml
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowChat.baml
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.baml
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowDialog.baml
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\MainWindow.g.cs
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowChat.g.cs
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.g.cs
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowDialog.g.cs
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\App.g.cs
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client_MarkupCompile.cache
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.g.resources
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.Properties.Resources.resources
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.exe
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.pdb
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\bin\Debug\Client.exe
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\bin\Debug\Client.pdb
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\bin\Debug\MyLibrary.dll
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\bin\Debug\MyLibrary.pdb
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\MainWindow.baml
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowChat.baml
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.baml
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowDialog.baml
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowChat.g.cs
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.g.cs
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowDialog.g.cs
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\App.g.cs
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client_MarkupCompile.cache
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.g.resources
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\bin\Debug\Client.exe.config
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\bin\Debug\Client.exe
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\bin\Debug\Client.pdb
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\bin\Debug\MyLibrary.dll
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\bin\Debug\MyLibrary.pdb
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\MainWindow.baml
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowChat.baml
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.baml
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowDialog.baml
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\MainWindow.g.cs
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowChat.g.cs
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowCreateAccount.g.cs
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\WindowDialog.g.cs
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\App.g.cs
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client_MarkupCompile.cache
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.g.resources
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.Properties.Resources.resources
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.exe
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Client\obj\x86\Debug\Client.pdb
+P:\ворк\резюмешки\пруфы\hh_ICQ\Client\bin\Debug\Client.exe.config
+P:\ворк\резюмешки\пруфы\hh_ICQ\Client\obj\x86\Debug\Client.exe
+P:\ворк\резюмешки\пруфы\hh_ICQ\Client\obj\x86\Debug\Client.pdb
+P:\ворк\резюмешки\пруфы\myICQ\Client\bin\Debug\Client.exe.config
+P:\ворк\резюмешки\пруфы\myICQ\Client\bin\Debug\Client.exe
+P:\ворк\резюмешки\пруфы\myICQ\Client\bin\Debug\Client.pdb
+P:\ворк\резюмешки\пруфы\myICQ\Client\bin\Debug\MyLibrary.dll
+P:\ворк\резюмешки\пруфы\myICQ\Client\bin\Debug\MyLibrary.pdb
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\MainWindow.baml
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\WindowChat.baml
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\WindowCreateAccount.baml
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\WindowDialog.baml
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\MainWindow.g.cs
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\WindowChat.g.cs
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\WindowCreateAccount.g.cs
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\WindowDialog.g.cs
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\App.g.cs
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\Client_MarkupCompile.cache
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\Client.g.resources
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\Client.Properties.Resources.resources
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\Client.exe
+P:\ворк\резюмешки\пруфы\myICQ\Client\obj\x86\Debug\Client.pdb

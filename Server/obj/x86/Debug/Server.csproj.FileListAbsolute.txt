@@ -1,0 +1,72 @@
+C:\Users\ASUS\Desktop\MyICQ\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\MyICQ\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\MyICQ\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\MyICQ\Server\obj\x86\Debug\Server.exe
+C:\Users\ASUS\Desktop\MyICQ\Server\obj\x86\Debug\Server.pdb
+C:\Users\ASUS\Desktop\MyICQ\Server\bin\Debug\Server.exe.config
+C:\Users\ASUS\Desktop\MyICQ\Server\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\MyICQ\Server\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\асько\MyICQ\Server\obj\x86\Debug\Server.exe
+C:\Users\ASUS\Desktop\асько\MyICQ\Server\obj\x86\Debug\Server.pdb
+C:\Users\ASUS\Desktop\асько\MyICQ\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\асько\MyICQ\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\асько\MyICQ\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\асько\MyICQ\Server\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\асько\MyICQ\Server\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\hh_ICQ\Server\obj\x86\Debug\Server.exe
+C:\Users\ASUS\Desktop\hh_ICQ\Server\obj\x86\Debug\Server.pdb
+C:\Users\ASUS\Desktop\hh_ICQnew\Server\obj\x86\Debug\Server.exe
+C:\Users\ASUS\Desktop\hh_ICQnew\Server\obj\x86\Debug\Server.pdb
+C:\Users\ASUS\Desktop\hh_ICQnew\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\hh_ICQnew\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\hh_ICQnew\Server\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\hh_ICQnew\Server\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\hh_ICQnew\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\hh_ICQ\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\hh_ICQ\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\hh_ICQ\Server\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\hh_ICQ\Server\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\hh_ICQ\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.exe
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.pdb
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\bin\Debug\MyLibrary.dll
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\bin\Debug\MyLibrary.pdb
+C:\Users\ASUS\Desktop\re-wired\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.exe
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.pdb
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\bin\Debug\Server.exe
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\bin\Debug\Server.pdb
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\bin\Debug\MyLibrary.dll
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\bin\Debug\MyLibrary.pdb
+P:\infushka\C#\labs\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.exe
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.pdb
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Server\bin\Debug\Server.exe
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Server\bin\Debug\Server.pdb
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Server\bin\Debug\MyLibrary.dll
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Server\bin\Debug\MyLibrary.pdb
+C:\Users\peter_000\Desktop\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Server\bin\Debug\Server.exe.config
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Server\bin\Debug\Server.exe
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Server\bin\Debug\Server.pdb
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Server\bin\Debug\MyLibrary.dll
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Server\bin\Debug\MyLibrary.pdb
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.exe
+P:\ворк\резюмешки\пруфы\lab16 (additional1)\hh_ICQ\Server\obj\x86\Debug\Server.pdb
+P:\ворк\резюмешки\пруфы\hh_ICQ\Server\bin\Debug\Server.exe.config
+P:\ворк\резюмешки\пруфы\hh_ICQ\Server\obj\x86\Debug\Server.exe
+P:\ворк\резюмешки\пруфы\hh_ICQ\Server\obj\x86\Debug\Server.pdb
+C:\Users\peter_000\Desktop\myICQ\Server\bin\Debug\Server.exe.config
+C:\Users\peter_000\Desktop\myICQ\Server\obj\x86\Debug\Server.exe
+C:\Users\peter_000\Desktop\myICQ\Server\obj\x86\Debug\Server.pdb
+P:\ворк\резюмешки\пруфы\myICQ\Server\bin\Debug\Server.exe.config
+P:\ворк\резюмешки\пруфы\myICQ\Server\obj\x86\Debug\Server.exe
+P:\ворк\резюмешки\пруфы\myICQ\Server\obj\x86\Debug\Server.pdb
+P:\ворк\резюмешки\пруфы\myICQ\Server\bin\Debug\Server.exe
+P:\ворк\резюмешки\пруфы\myICQ\Server\bin\Debug\Server.pdb
+P:\ворк\резюмешки\пруфы\myICQ\Server\bin\Debug\MyLibrary.dll
+P:\ворк\резюмешки\пруфы\myICQ\Server\bin\Debug\MyLibrary.pdb
+P:\ворк\резюмешки\пруфы\myICQ\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache

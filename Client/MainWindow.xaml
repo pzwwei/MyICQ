@@ -1,0 +1,32 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="myICQ" Width="260" Height="450" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="emblem.jpg">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image Grid.Row="0" Source="emblem.jpg" Name="ImageEmblem"></Image>
+        <Label Grid.Row="1" Content="Server IP:" Height="28" Name="labelIP" />
+        <TextBox Grid.Row="2" Name="textBoxIP" Text="127.0.0.1" />
+        <Label Grid.Row="3" Content="Username:"  Name="labelUsername" />
+        <TextBox Grid.Row="4" Name="textBoxUsername" />
+        <Label Grid.Row="5" Content="Password:" Name="labelPassword" />
+        <TextBox Grid.Row="6" Name="textBoxPassword" />
+        <Grid Grid.Row="7">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>                
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" Content="Sign In!" Name="buttonSignIn" Click="buttonSignIn_Click" />
+            <Button Grid.Column="1" Content="Register" Name="buttonRegister" Click="buttonRegister_Click" />
+        </Grid>
+    </Grid> 
+</Window>
